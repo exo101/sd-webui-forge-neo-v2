@@ -6,7 +6,7 @@
 
 ## 项目介绍
 
-本项目是基于 **Stable Diffusion WebUI Forge Neo** 的中文定制版本，专注于优化和易用性，目标是通过简单易用的 GUI 运行最新的流行模型。
+本项目是基于 **Stable Diffusion WebUI Forge Neo** 的修改版本，专注于优化和易用性，目标是通过简单易用的 GUI 运行最新的流行模型与适应新老插件。
 
 **原作者**：[Haoming02](https://github.com/Haoming02)  
 **原项目链接**：[https://github.com/Haoming02/sd-webui-forge-classic/tree/neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo?tab=readme-ov-file#installation)
