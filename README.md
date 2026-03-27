@@ -1,4 +1,4 @@
-# Stable Diffusion WebUI Forge - Neo (中文定制版)
+
 
 <p align="center">
 <img src="html\ui.webp" width=512 alt="UI">
