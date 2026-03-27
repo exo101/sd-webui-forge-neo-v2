@@ -14,10 +14,10 @@
 ### Forge 是什么？
 
 Stable Diffusion WebUI Forge 是建立在原始 AUTOMATIC1111 Stable Diffusion WebUI 之上的平台，旨在：
-- 简化开发流程
-- 优化资源管理
-- 加速推理
-- 研究实验性功能
+- 简化开发流程。优化资源管理
+- 加速推理，所有项目与插件最高均不超过16gb显存，以12gb-8gb居多
+- 配置要求从高到低依次是 wan2.2，Qwen-Image，flux2-Klein，flux，qwen3-tts，Anima，XL
+
 
 名称 "Forge" 的灵感来自 "Minecraft Forge"。该项目旨在成为 Stable Diffusion WebUI 的 "Forge"。
 
