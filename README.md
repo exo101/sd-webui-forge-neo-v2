@@ -8,7 +8,9 @@
 **原作者**：[Haoming02](https://github.com/Haoming02)  
 **原项目链接**：[https://github.com/Haoming02/sd-webui-forge-classic/tree/neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo?tab=readme-ov-file#installation)
 qq群内领取开源整合包
-![Uploading QQ20260329-165103.png…]()
+<img width="357" height="587" alt="QQ20260329-165103" src="https://github.com/user-attachments/assets/1d75d3f0-c31b-4dd7-828b-b5377cede2e5" />
+
+
 
 教程视频：https://www.bilibili.com/video/BV1KfXyBTEXb?vd_source=343e49b703fb5b4137cd6c1987846f37&spm_id_from=333.788.videopod.sections
 
