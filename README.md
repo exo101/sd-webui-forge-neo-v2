@@ -224,7 +224,6 @@ models/ontrolNetPreprocessor/
 | **adetailer** | ADetailer 面部修复模型 |
 | **cleaner** | 图像清理模型 |
 | **sams** | SAM (Segment Anything Model) 分割模型 |
-| **qwen-image** | 通义千问图像生成模型 |
 | **qwen3-tts** | 通义千问语音合成模型 |
 | **whisper-tiny** | Whisper 语音识别模型 |
 | **LatentSync** | 潜在同步模型（音视频同步） |
