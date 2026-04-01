@@ -142,7 +142,7 @@ Flux.2-Klein 是 多模态编辑模型
 ```
 models/diffusion_models/
 ├── flux2-klein-4b.safetensors   # 4B 轻量版
-└── flux2-klein-9b.safetensors   # 9B 标准版
+└── flux-2-klein-9b-fp8.safetensors   # 9B 标准版
 
 models/text_encoder/              # 文本编码器（首次运行自动下载）
 └── qwen_3_8b_fp8mixed.safetensors
@@ -168,7 +168,7 @@ models/VAE/
 #### Qwen-Image 模型
 ```
 models/diffusion_models/
-├── qwen_image_2512_fp8_e4m3fn.safetensors  # 主模型（注意：fp8版本qwen模型消耗显存极高，可选择nunchaku版本的qwen模型，在魔搭社区进行下载）
+├── svdq-fp4_r128-qwen-image-edit-2509-lightningv2.0-8steps.safetensors  # 主模型（nunchaku版本的qwen模型，在魔搭社区进行下载要区分50系模型）
 models/text_encoder/              # 文本编码器
 ├── qwen_2.5_vl_7b_fp8_scaled.safetensors   # 通义千问编码器
 models/VAE/
