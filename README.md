@@ -215,19 +215,11 @@ models/ontrolNetPreprocessor/
 | **Lora** | LoRA 微调模型，用于风格/角色/概念微调 |
 | **VAE** | 变分自编码器，影响图像色彩和细节 |
 | **text_encoder** | 文本编码器模型（T5、CLIP 等） |
-| **clip** | CLIP 视觉-语言模型 |
 | **diffusion_models** | 扩散模型（Flux、SD3 等 DiT 架构） |
-| **embeddings** | 文本反转嵌入向量 |
 | **ControlNet** | ControlNet 控制网络模型 |
 | **ControlNetPreprocessor** | ControlNet 预处理器模型 |
 | **ESRGAN** | ESRGAN 超分辨率放大模型 |
 | **RealESRGAN** | RealESRGAN 超分辨率模型 |
-| **adetailer** | ADetailer 面部修复模型 |
-| **cleaner** | 图像清理模型 |
-| **sams** | SAM (Segment Anything Model) 分割模型 |
-| **qwen3-tts** | 通义千问语音合成模型 |
-| **whisper-tiny** | Whisper 语音识别模型 |
-| **LatentSync** | 潜在同步模型（音视频同步） |
 | **diffusers** | Diffusers 格式模型 |
 
 ---
